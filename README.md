@@ -1,97 +1,62 @@
-<h1 align="center">👋 Hi, I'm Bhoopendra Mishra</h1>
-<h3 align="center">🎮 Unity Game Developer | 🚀 AR/VR Enthusiast | 🧠 Problem Solver</h3>
-
----
+<h1 align="center">🎮 Bhoopendra Mishra</h1>
+<h3 align="center">Game Developer | Unity3D | Multiplayer | AR/VR</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photon%20PUN-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Photon PUN"/>
-  <img src="https://img.shields.io/badge/VR/AR-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Unity+Game+Developer;AR+%2F+VR+Enthusiast;Cross-Platform+Creator;Multiplayer+Systems+%7C+Photon+PUN;Let's+Build+Games+That+Inspire+!">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a Unity Developer with 2+ years of experience building performance-optimized, cross-platform games and interactive applications for:
-
-- 📱 **Android / iOS**
-- 🌐 **WebGL**
-- 💻 **PC**
-- 🥽 **VR/AR**
-
-I specialize in **multiplayer experiences (Photon PUN)**, SDK integrations (like **Skillz**, **Crazy Games**), and rapid prototyping of engaging gameplay.
+🎯 Unity Developer with 2+ years of experience in building mobile, WebGL, and VR/AR games.  
+⚙️ Skilled in C#, Photon PUN, game design, level design, and performance optimization.  
+🚀 Currently working at **Datalogy Software** on exciting cross-platform projects.  
+🎮 Passionate about creative game mechanics, immersive experiences, and clean code.
 
 ---
 
-### 💼 Professional Experience Highlights
+## 🛠️ Tech Stack & Tools
 
-- 🏃 **Stadium Dash** – WebGL/Android/iOS game with custom curve shader and optimization
-- 📷 **Smart CCTV Tool** – Image recognition & motion detection using AI vision
-- 📚 **3DL Learning App** – 3D education app with VR exploration modules
-- 🔫 **Gun Slinger** – PC game with advanced AI and NavMesh pathfinding
-- 🥷 **Ninja Blast** – Multiplayer game built in 2 days with Photon PUN
-
----
-
-### ⚙️ Tech Stack
-
-| Category            | Tools / Technologies |
-|---------------------|----------------------|
-| **Languages**       | `C#`, `C++`, `JavaScript` |
-| **Game Engines**    | Unity3D, Unreal Engine |
-| **Multiplayer**     | Photon PUN |
-| **Platforms**       | Android, iOS, WebGL, PC, VR/AR |
-| **Tools**           | Firebase, Git, Adobe Animate, Photoshop |
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photon%20PUN-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/VR%20%7C%20AR-FF61A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Animate-FF0000?style=for-the-badge&logo=adobeanimate&logoColor=white" />
+</p>
 
 ---
 
-### 🌱 Currently Exploring
+## 📊 GitHub Stats
 
-- Shader Programming & Visual Effects
-- Unity DOTS/ECS Architecture
-- AI-driven Gameplay Systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhoopendra2306&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoopendra2306&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhoopendra2306&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Get in Touch
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Bhoopendra2306/Bhoopendra2306/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+## 📫 Connect with Me
 
 - 📧 Email: mishrabhoopendra999@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/iambhoopendramishra)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iambhoopendramishra)  
+- 🕹️ [GitHub](https://github.com/Bhoopendra2306)
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
-I love fixing performance bottlenecks almost as much as I love beating high scores! 🕹️🔥
-
----
-
-<!-- Optional: GitHub Stats -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhoopendra2306&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoopendra2306&layout=compact&theme=radical" />
-</p>
--->
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhoopendra2306&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoopendra2306&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoopendra2306&theme=tokyonight" />
-</p>
----
-
-### 👁️‍🗨️ Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhoopendra2306&label=Profile%20views&color=0e75b6&style=flat" alt="Bhoopendra2306" />
-</p>
+I can build a multiplayer game in 2 days, and still have time to debug it without rage-quitting! 😄🎯
 
